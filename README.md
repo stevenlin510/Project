@@ -1,7 +1,7 @@
 # Social Media Data Analysis 2019 Final Project, ITMO.
 
 #### Introduction
-We collect the comments that including *amazon forest*, *amazon forest fire* and *amazon fire climate change* key sentences, and then build the sentiment analysis model to predict their sentiment score. ( lower score means more pessimistic, higher score means more optimistic)  
+We collect the comments that including **amazon forest**, **amazon forest fire** and **amazon fire climate change** key sentences, and then build the sentiment analysis model to predict their sentiment score. ( lower score means more pessimistic, higher score means more optimistic)  
 
 
 #### Dataset 
