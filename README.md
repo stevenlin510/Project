@@ -8,4 +8,4 @@ We collect the comments that including **amazon forest**, **amazon forest fire**
 "Citation: Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. CS224N Project Report, Stanford, 1(2009), p.12."
 
 ## Team Member
-Wei-Cheng Lin, Ssi-Yu Chen (Nicole), Ruben Gonzalez.
+Wei-Cheng Lin, Ssu-Yu Chen, Ruben Gonzalez.
